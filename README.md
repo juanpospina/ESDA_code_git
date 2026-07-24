@@ -28,6 +28,10 @@ Repositorio académico correspondiente al curso **Análisis Exploratorio de Dato
     - MAUP.
     - AEDE y descarga de datos de Open Street Maps.
 
+- [Sesión 3 → Análisis Exploratorio de Datos Espaciales](/Clase_03/)
+    - Test.
+    - TEst2
+
 ## Configuración del entorno virtual
 
 Se recomienda utilizar un entorno virtual para instalar las librerías del repositorio.
