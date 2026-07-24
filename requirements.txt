@@ -1,0 +1,11 @@
+geopandas==1.0.1
+libpysal==4.12.1
+matplotlib==3.9.2
+numpy==2.1.1
+pandas==2.2.3
+spreg==1.8.3
+contextily==1.7.1
+mapclassify==2.10.0
+tqdm==4.69.0
+osmnx==2.1.0
+ipykernel

@@ -1,0 +1,10 @@
+# Entorno virtual de Python
+.venv/
+
+
+
+# Carpetas de resultados y procesos intermedios
+Clase_01/outputs/
+Clase_02/outputs/
+Clase_02/cache/
+Clase_02/OSM_Medellin_30km/
