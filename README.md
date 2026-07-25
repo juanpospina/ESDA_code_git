@@ -65,7 +65,6 @@ Cuando el entorno esté activo, aparecerá `(.venv)` al inicio de la línea de l
 Con el entorno virtual activo, ejecuta:
 
 ```bash
-python -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
