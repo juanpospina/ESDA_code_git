@@ -9,3 +9,5 @@ mapclassify
 tqdm
 osmnx
 ipykernel
+esda
+splot
